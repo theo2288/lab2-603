@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//nou
 int function(int x)
 {
     if (x>0)
